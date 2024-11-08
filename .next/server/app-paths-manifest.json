@@ -1,9 +1,7 @@
 {
-  "/page": "app/page.js",
-  "/contact-us/page": "app/contact-us/page.js",
-  "/cakes/page": "app/cakes/page.js",
-  "/cupcakes/page": "app/cupcakes/page.js",
   "/cookies/page": "app/cookies/page.js",
-  "/about-us/page": "app/about-us/page.js",
+  "/brownies/page": "app/brownies/page.js",
+  "/donuts/page": "app/donuts/page.js",
+  "/sundae/page": "app/sundae/page.js",
   "/our-branches/page": "app/our-branches/page.js"
 }

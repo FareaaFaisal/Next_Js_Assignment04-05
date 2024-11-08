@@ -1,8 +1,7 @@
-// import Header from "@/app/components/header"
-// import {Footer} from "@/app/components/footer"
+
 
 import Image from "next/image";
-import Link from "next/link"
+
 
 export default function Branches(){
     return(
