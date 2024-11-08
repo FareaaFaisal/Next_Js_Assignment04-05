@@ -13,7 +13,7 @@ export default function Branches(){
 
 
 <div className="flex space-x-4 gap-x-9 p-7 ">
-<div className="border border-gray-300 p-2"><Image src="/chef1.png" alt="Chef Image" width={200}  height={200} /></div></div>
+<div className="border border-gray-300 p-2"><Image src="/branch.png" alt="Chef Image" width={200}  height={200} /></div></div>
             {/* <Footer/> */}
         </div>
      

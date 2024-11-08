@@ -84,7 +84,7 @@
    background-color: white;
    display:flex;
    justify-content:center;
-   gap:50px;                  /* to ensure equal blogs appear on each line */
+   gap:90px;                  /* to ensure equal blogs appear on each line */
    padding-top: 100px;        /* Add padding equal to or greater than the header height */
    padding-bottom: 80px;      /* Add padding for the footer */
    flex-wrap: wrap;
@@ -93,7 +93,7 @@
 
 .childContainer{      /*card*/
  width: 250px;
- height: 330px;
+ height: 350px;
  background-color: black;
  padding: 15px;
  border-radius: 20px;
@@ -103,6 +103,7 @@
  border: 3px solid rgb(255, 255, 255);
  margin-top: 70px;
  padding-bottom: 80px;
+ margin-left: 20px;
 }
 
 .imageContainer{
@@ -367,4 +368,101 @@ transition-duration: 0.5s;
      opacity: 1;
    }
  }
+
+
+ /* ------------- cakes ----------------- */
+ .cakeh{
+  font-weight: bold;
+font-size: 40px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.cakediv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cookieh{
+  font-weight: bold;
+font-size: 40px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.cookiediv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.browniesh{
+  font-weight: bold;
+font-size: 40px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.browniesdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.donuth{
+  font-weight: bold;
+font-size: 40px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.donutdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
  
+.cupcakeh{
+  font-weight: bold;
+font-size: 40px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.cupcakediv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sundaeh{
+  font-weight: bold;
+font-size: 40px; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.sundaediv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
