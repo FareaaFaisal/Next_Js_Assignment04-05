@@ -11,7 +11,7 @@ export default function About(){
             <br/><br/><br/><br/>
                 <h1 className="font-bold text-4xl text-black-900 text-center uppercase underline">About Us<br/></h1><br/>
 
-<p className="text-justify"><span className="font-bold text-2xl text-black-600 text-left capitalize underline">Welcome to Frosted Dreams!<br/></span><br/>
+<p className="text-justify"><span className="font-bold text-2xl text-black-600 text-left capitalize underline">Welcome to Frosted Dreams<br/></span><br/>
 
 At Frosted Dreams, we believe that every celebration deserves a delicious cake. Founded in 2003, our cake shop is dedicated to crafting delightful treats that bring joy to every occasion, from birthdays to weddings and everything in between.<br/><br/>
 
@@ -24,7 +24,7 @@ We aim to create beautiful and delicious cakes that not only taste incredible bu
 
 <span className="font-bold text-2xl text-black-600 text-left capitalize underline">What Makes Us Unique:<br/></span><br/>
 
-What sets Frosted Dreams apart is our commitment to customization. Whether you're dreaming of a classic chocolate cake, an elegant wedding cake, or a fun-themed cake for a child's birthday, we work closely with you to bring your vision to life. Our cakes are not just desserts; they are edible works of art!<br/><br/>
+What sets Frosted Dreams apart is our commitment to customization. Whether you&apos;re dreaming of a classic chocolate cake, an elegant wedding cake, or a fun themed cake for a childs birthday, we work closely with you to bring your vision to life. Our cakes are not just desserts, they are edible works of art<br/><br/>
 
 
 <span className="font-bold text-2xl text-black-600 text-left capitalize underline">Meet Our Team:<br/></span><br/>
@@ -39,8 +39,8 @@ Behind every cake at Frosted Dreams is a dedicated team of bakers and decorators
 
 <span className="font-bold text-2xl text-black-600 text-left capitalize underline">Giving Back to the Community:<br/></span><br/>
 
-We believe in giving back to the community that has supported us. That's why we actively participate in local events and contribute to charitable causes, helping to spread sweetness beyond our bakery doors.<br/><br/><br/><br/></p>
-            {/* <Footer/> */}
+We believe in giving back to the community that has supported us. That&apos;s why we actively participate in local events and contribute to charitable causes, helping to spread sweetness beyond our bakery doors.<br/><br/><br/><br/></p>
+           
 
         </div>
        
